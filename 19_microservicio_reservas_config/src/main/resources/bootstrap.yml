@@ -1,0 +1,7 @@
+# Nombre identificador del servicio
+spring:
+  application:
+    name: servicio-reservas
+  cloud:
+    config:
+      uri: http://localhost:8888  #Localización Spring Cloud Config

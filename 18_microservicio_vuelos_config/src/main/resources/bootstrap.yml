@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: servicio-vuelos
+  cloud:
+    config:
+      uri: http://localhost:8888  #Localización Spring Cloud Config
+      
+      
